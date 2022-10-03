@@ -15,7 +15,7 @@ Currently I aspire to design a course schedule that would balance incoming
 internships/work (the professional experience I need) with my academic 
 interests and also is resistant to CSE department waitlists. To this end
 I heavily utilize UCSD's course [catalog](https://catalog.ucsd.edu/front/courses.html)) and [offerings](https://cse.ucsd.edu/index.php/undergraduate/tentative-course-offerings).
-[This is the engineer that I strive to be](../cse110_inspiration.jpg) 
+[This is the engineer that I strive to be](./cse110_inspiration.jpg) 
 
 ## Future endeavors
 As of now here is my plan to becoming a full-fledge software engineer
