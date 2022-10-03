@@ -27,9 +27,9 @@ As of now here is my plan to becoming a full-fledge software engineer
         1. Ordered List
         2. Unordered List
         3. Task List
-- [] Stop using print statements so much and use the debugger
-- [] Complete all the machine learning courses at UCSD and enter a
+- [ ] Stop using print statements so much and use the debugger
+- [ ] Complete all the machine learning courses at UCSD and enter a
 saturated workforce with this specialization
 
 Thanks for listening!
-[Top](andrew-man's-gitPage)
+[Top](#andrew-man's-gitPage)
