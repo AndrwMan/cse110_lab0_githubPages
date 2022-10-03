@@ -1,4 +1,4 @@
-![UCSD CSE](cseDeptPic.jpg)
+![UCSD CSE](http://www.sysnet.ucsd.edu/~voelker/pubcom/logo/CSELogo-color-vrable.svg)
 
 ### Andrew Man's GitPage
 3rd Year Computer Science student interested in applying algorithms
