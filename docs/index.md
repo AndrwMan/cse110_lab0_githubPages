@@ -32,4 +32,3 @@ As of now here is my plan to becoming a full-fledge software engineer
 saturated workforce with this specialization
 
 Thanks for listening!
-[Top](#andrew-man's-gitPage)
