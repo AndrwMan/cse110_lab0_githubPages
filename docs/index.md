@@ -1,3 +1,5 @@
+![UCSD CSE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcse.ucsd.edu%2Fabout%2Fnews%2Fcomputer-science-uc-san-diego-4-ranking&psig=AOvVaw2BP5iA5H9fW43hR91Mgqfy&ust=1664864980829000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjfisG3w_oCFQAAAAAdAAAAABAD)
+
 ### Andrew Man's GitPage
 3rd Year Computer Science student interested in applying algorithms
 to the **financial sector** (think trading algos). My hobbies include discovering game development in my spare time and using *styled* fonts.
